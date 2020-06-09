@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ігор\source\repos\Home_Work_Account\Home_Work_Account\main.cpp(197,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Home_Work_Account.vcxproj -> C:\Users\Ігор\source\repos\Home_Work_Account\Debug\Home_Work_Account.exe
